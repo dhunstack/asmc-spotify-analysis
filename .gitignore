@@ -1,3 +1,4 @@
 .env
 .cache*
 .ipynb_*
+.DS_Store

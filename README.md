@@ -6,6 +6,9 @@
 
 ## Usage
 
+UPDATE: Added a Presentation Version of the Notebook, with Dataset stored in pickle file.
+This could be used without needing to set up Spotify API at all.
+
 Make a `.env` file with the following environment variables for using Spotify API -
 
 - SPOTIPY_CLIENT_ID
